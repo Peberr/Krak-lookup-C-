@@ -1,0 +1,12 @@
+C:\Users\abelo\source\repos\krak\krak\bin\Release\krak.exe.config
+C:\Users\abelo\source\repos\krak\krak\bin\Release\krak.exe
+C:\Users\abelo\source\repos\krak\krak\bin\Release\krak.pdb
+C:\Users\abelo\source\repos\krak\krak\bin\Release\HtmlAgilityPack.dll
+C:\Users\abelo\source\repos\krak\krak\bin\Release\HtmlAgilityPack.pdb
+C:\Users\abelo\source\repos\krak\krak\bin\Release\HtmlAgilityPack.xml
+C:\Users\abelo\source\repos\krak\krak\obj\Release\krak.csproj.AssemblyReference.cache
+C:\Users\abelo\source\repos\krak\krak\obj\Release\krak.csproj.SuggestedBindingRedirects.cache
+C:\Users\abelo\source\repos\krak\krak\obj\Release\krak.csproj.CoreCompileInputs.cache
+C:\Users\abelo\source\repos\krak\krak\obj\Release\krak.csproj.CopyComplete
+C:\Users\abelo\source\repos\krak\krak\obj\Release\krak.exe
+C:\Users\abelo\source\repos\krak\krak\obj\Release\krak.pdb
